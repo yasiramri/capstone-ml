@@ -1,2 +1,5 @@
 #Ignore File
 Receipt-or-Invoice-2/
+
+#Ignore
+.DS_Store
