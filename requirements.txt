@@ -1,0 +1,7 @@
+numpy==1.23.5
+opencv-python==4.5.5.64
+pytesseract==0.3.10
+tensorflow==2.8.0
+easyocr==1.4.1
+scikit-learn==1.0.2
+Pillow==9.0.1
